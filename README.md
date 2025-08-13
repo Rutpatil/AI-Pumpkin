@@ -22,7 +22,7 @@ Pumpkin Classifier/
 
 
 ├── Demo_Video/                 # Demo video folder
-│   └── PC Recording.mp4
+│   └── Demo Video Link
 │
 
 ├── Pumpkin Classifier Documentation.pdf  # Detailed project documentation
@@ -78,7 +78,8 @@ See the Screenshots/ folder for example inputs and results.
 
 🎥 Demo
 A demo video is available in the Demo_Video/ folder.
-Demo Video Link : https://drive.google.com/file/d/1in-gE3_0RFQmQkrwqgNY86GPCwE633rD/view?usp=sharing
+## Demo Video Link ## 
+https://drive.google.com/file/d/1in-gE3_0RFQmQkrwqgNY86GPCwE633rD/view?usp=sharing
 
 📄 Documentation
 For more details, refer to Pumpkin Classifier Documentation.pdf.
