@@ -54,7 +54,7 @@ OpenCV/Pillow (for image processing)
 Clone the repo:
 
 
-git clone https://github.com/Shahrukh4034/Pumpkin_Classifier.git
+git clone https://github.com/Rutpatil/AI-Pumpkin
 cd pumpkin-classifier
 Set up a virtual environment:
 
