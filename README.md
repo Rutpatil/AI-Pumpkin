@@ -82,4 +82,4 @@ A demo video is available in the Demo_Video/ folder.
 https://drive.google.com/file/d/1in-gE3_0RFQmQkrwqgNY86GPCwE633rD/view?usp=sharing
 
 📄 Documentation
-For more details, refer to Pumpkin Classifier Documentation.pdf.
+For more details, refer to Final Report-AI-Pumkin.docx.
